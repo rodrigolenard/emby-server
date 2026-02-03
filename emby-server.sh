@@ -6,7 +6,7 @@ PROJECT="https://github.com/rodrigolenard/emby-server"
 PROJECT_NAME="emby-server"
 BRANCH="main"
 GITHUB_CDN="https://github.com/rodrigolenard/emby-server"
-CRACK_FILE_DIR="${GITHUB_CDN}/${USERNAME}/${PROJECT_NAME}@${BRANCH}/crack"
+CRACK_FILE_DIR="https://github.com/rodrigolenard/emby-server/config"
 CRACK_CONFIG=".config"
 
 EMBY_VERSION_FILE="lastversion.txt"
