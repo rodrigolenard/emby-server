@@ -1,7 +1,7 @@
 ## How to
 ```shell
-wget --no-check-certificate https://cdn.jsdelivr.net/gh/qcgzxw/emby-server-crack@main/embyServerCrack.sh -O embyServerCrack.sh
+wget https://raw.githubusercontent.com/rodrigolenard/emby-server/refs/heads/main/emby-server.sh
 
-sh embyServerCrack.sh
+sh emby-server.sh
 ```
 FYI,If your emby server was running with docker,you have to enter docker container to execute the script.
